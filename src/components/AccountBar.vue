@@ -23,7 +23,7 @@
       <div class="avatar-item">
         <img
           style="transform: skew(15deg)"
-          src="/img/avatar.png"
+          src="/immersivelab-test/img/avatar.png"
           alt="avatar"
         />
       </div>

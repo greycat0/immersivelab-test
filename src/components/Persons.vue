@@ -4,7 +4,7 @@
       class="flex items-end mx-3 person-cart h-36"
       style="background: #373f56; height: max(12vw, 10rem)"
     >
-      <img src="/img/mickahel.png" />
+      <img src="/immersivelab-test/img/mickahel.png" />
       <span class="absolute -left-3 -bottom-2 text-white"
         >Michael <span class="font-bold">De Santa</span></span
       >
@@ -18,7 +18,7 @@
         box-shadow: 0px -32px 48px rgba(93, 134, 238, 0.35);
       "
     >
-      <img src="/img/isabella2.png" />
+      <img src="/immersivelab-test/img/isabella2.png" />
       <span
         class="absolute -left-3 -bottom-2 text-white"
         >Isabella <span class="font-bold">Brown</span></span

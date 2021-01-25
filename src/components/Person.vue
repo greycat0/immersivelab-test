@@ -2,7 +2,7 @@
   <div
     class="ml-auto bg-contain bg-bottom bg-no-repeat"
     style="
-      background-image: url(/img/isabella.png);
+      background-image: url(/immersivelab-test/img/isabella.png);
       width: 40rem;
       min-width: 370px;
     "

@@ -6,7 +6,7 @@
     >
       AK-47
     </div>
-    <img class="absolute -left-20 -bottom-10" src="/img/gun.png">
+    <img class="absolute -left-20 -bottom-10" src="/immersivelab-test/img/gun.png">
     <div class="absolute card right-5 bue-button">Купить</div>
   </div>
 </template>
